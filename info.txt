@@ -1,0 +1,6 @@
+{
+coins : 1128,
+max_m : 2880.0,
+reloadtime : 0.6,
+ammoreloadtime : 3.0
+}
